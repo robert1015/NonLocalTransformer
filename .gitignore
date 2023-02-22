@@ -1,0 +1,5 @@
+gen/
+checkpoints/
+*.pyc
+*.swp
+exp/resnet152-b121ed2d.pth
