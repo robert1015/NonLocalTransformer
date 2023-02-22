@@ -1,10 +1,5 @@
 #!/usr/bin/env python
 
-"""Code for "Actor and Observer: Joint Modeling of First and Third-Person Videos", CVPR 2018
-   Can be run directly or throught config scripts under exp/
-
-   Gunnar Sigurdsson, 2018
-"""
 import torch
 import numpy as np
 import random
